@@ -1,3 +1,0 @@
-pr.base=trunk
-pr.upstream=herrhotzenplotz/ghcli-playground
-forge-type=gitlab
